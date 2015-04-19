@@ -3,9 +3,13 @@ public class Person {
   private String phoneNumber;
   private String city;
 
-  public Person() {
-  }
 
+//constructor
+  public Person() {
+
+
+  }
+//constructor
   public Person(String name) {
     this.name = name;
   }
